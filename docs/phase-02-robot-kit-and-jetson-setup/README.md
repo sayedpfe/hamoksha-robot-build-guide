@@ -14,9 +14,9 @@ Names only. Photos are the real parts from this build.
 |---|---|---|---|
 | 1 | XLeRobot Package 3 Combo, version 0.4.0 (two assembled SO-ARM101 arms, wheeled base parts, all printed parts) | The robot platform | ![XLeRobot Package 3 Combo, version 0.4.0 (two assembled SO-ARM101 arms, wheeled base parts, all printed parts)](images/01_xlerobot_package_3_combo__vers.jpg) |
 | 2 | Feetech STS3215 12 V servos (arms), plus four base servos | Arm joints and base drive | ![Feetech STS3215 12 V servos (arms), plus four base servos](images/servo.jpg) |
-| 3 | Two 127 mm omni wheels | Base wheels | photo to add |
-| 4 | Three USB cameras (two wrist cameras and one head camera) | Vision | photo to add |
-| 5 | Two 12 V 8 A power supplies | Power for the kit | photo to add |
+| 3 | Two 127 mm omni wheels | Base wheels | — |
+| 4 | Three USB cameras (two wrist cameras and one head camera) | Vision | — |
+| 5 | Two 12 V 8 A power supplies | Power for the kit | — |
 | 6 | NVIDIA Jetson Orin Nano (JetPack 6) | Robot computer | ![NVIDIA Jetson Orin Nano (JetPack 6)](images/jetson_real.jpg) |
 | 7 | Intel RealSense D435 depth camera | Depth and distance | ![Intel RealSense D435 depth camera](images/07_intel_realsense_d435_depth_cam.jpg) |
 | 8 | ELECROW 10.1 inch touch monitor | Touch screen and face of the robot | ![ELECROW 10.1 inch touch monitor](images/elecrow_screen_first_boot.jpg) |

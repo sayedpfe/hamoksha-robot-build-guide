@@ -14,11 +14,11 @@ Names only. Photos are the real parts from this build.
 |---|---|---|---|
 | 1 | LilyGO T-SIM7000G (ESP32) | Lift controller | ![LilyGO T-SIM7000G (ESP32)](images/01_lilygo_t_sim7000g__esp32_.jpg) |
 | 2 | TMC2209 V2.0 stepper driver (plus a spare) | Drives the lift motor | ![TMC2209 V2.0 stepper driver (plus a spare)](images/02_tmc2209_v2_0_stepper_driver__p.jpg) |
-| 3 | Motor 17HS15-1684S-PG5 | Lift motor | photo to add |
-| 4 | Stop button | Hardware stop, to go back into the box lid | photo to add |
+| 3 | Motor 17HS15-1684S-PG5 | Lift motor | — |
+| 4 | Stop button | Hardware stop, to go back into the box lid | — |
 | 5 | Printed electronics box tray, 227 x 127 x 52 mm (not printed yet) | Holds boards with their own cable exits and tie points | ![Printed electronics box tray, 227 x 127 x 52 mm (not printed yet)](images/05_printed_electronics_box_tray__.jpg) |
-| 6 | Drag chain with three cables | Between the box on the fixed base and the Jetson on the moving body | photo to add |
-| 7 | Multimeter | Voltage and coil resistance checks (never done on this fault) | photo to add |
+| 6 | Drag chain with three cables | Between the box on the fixed base and the Jetson on the moving body | — |
+| 7 | Multimeter | Voltage and coil resistance checks (never done on this fault) | — |
 
 ## Lift ESP32 to driver wiring
 

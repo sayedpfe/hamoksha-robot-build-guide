@@ -14,9 +14,9 @@ Names only. Photos are the real parts from this build.
 |---|---|---|---|
 | 1 | Slamtec RPLIDAR C1, 25 cm above the floor | Obstacle stop and floor map | ![Slamtec RPLIDAR C1, 25 cm above the floor](images/lidar_top.jpg) |
 | 2 | Intel RealSense D435 depth camera | Floor check at 15 times per second | ![Intel RealSense D435 depth camera](images/02_intel_realsense_d435_depth_cam.jpg) |
-| 3 | Two kit omni wheels (differential drive) | Driving | photo to add |
+| 3 | Two kit omni wheels (differential drive) | Driving | — |
 | 4 | Phone with a web browser on the home network | Remote control with hold-to-drive buttons and a stop | ![Phone with a web browser on the home network](images/04_phone_with_a_web_browser_on_th.jpg) |
-| 5 | Small cliff sensors (ordered, not fitted) | Planned second stair check | photo to add |
+| 5 | Small cliff sensors (ordered, not fitted) | Planned second stair check | — |
 
 ## First floor map built from a phone-driven drive
 

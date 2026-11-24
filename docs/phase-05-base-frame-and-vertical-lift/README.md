@@ -12,17 +12,17 @@ Names only. Photos are the real parts from this build.
 
 | # | Component | Used for | Photo |
 |---|---|---|---|
-| 1 | Mast: 40 x 80 slot-8 aluminium profile, 1500 mm | Vertical column | photo to add |
+| 1 | Mast: 40 x 80 slot-8 aluminium profile, 1500 mm | Vertical column | — |
 | 2 | Two HGR15 rails, 1500 mm, with four HGH15CA blocks | Guide the carriage | ![Two HGR15 rails, 1500 mm, with four HGH15CA blocks](images/02_two_hgr15_rails__1500_mm__with.jpg) |
-| 3 | Carriage plate: AlMg3 200 x 250 x 5 mm | Carries the torso, arms and head | photo to add |
-| 4 | Aluminium angle 50 x 50 x 5 mm | Shelf that carries the torso | photo to add |
-| 5 | Two aluminium plates 300 x 500 x 5 mm on a 40 x 40 frame (cross bar 420 mm, side bars 538 mm) | Deck of the base | photo to add |
-| 6 | STEPPERONLINE 17HS15-1684S-PG5 (NEMA 17 with 5.18:1 gearbox) | Lift motor | photo to add |
-| 7 | GT2 belt, 6 mm, with 20-tooth pulley (8 mm bore) and a toothed idler | Belt drive | photo to add |
+| 3 | Carriage plate: AlMg3 200 x 250 x 5 mm | Carries the torso, arms and head | — |
+| 4 | Aluminium angle 50 x 50 x 5 mm | Shelf that carries the torso | — |
+| 5 | Two aluminium plates 300 x 500 x 5 mm on a 40 x 40 frame (cross bar 420 mm, side bars 538 mm) | Deck of the base | — |
+| 6 | STEPPERONLINE 17HS15-1684S-PG5 (NEMA 17 with 5.18:1 gearbox) | Lift motor | — |
+| 7 | GT2 belt, 6 mm, with 20-tooth pulley (8 mm bore) and a toothed idler | Belt drive | — |
 | 8 | TMC2209 stepper driver | Drives the motor | ![TMC2209 stepper driver](images/08_tmc2209_stepper_driver.jpg) |
 | 9 | LilyGO T-SIM7000G (ESP32) | Lift controller | ![LilyGO T-SIM7000G (ESP32)](images/09_lilygo_t_sim7000g__esp32_.jpg) |
 | 10 | Capacitor 100 uF, 50 V | Across the driver's supply | ![Capacitor 100 uF, 50 V](images/10_capacitor_100_uf__50_v.jpg) |
-| 11 | Small push button | Software stop | photo to add |
+| 11 | Small push button | Software stop | — |
 | 12 | Anker SOLIX C300 DC power station | Power for the robot, on the base | ![Anker SOLIX C300 DC power station](images/12_anker_solix_c300_dc_power_stat.jpg) |
 | 13 | 3D printed motor box, belt tensioner (version 2, with 22 mm lock slot) | Hold the motor square and keep the belt tight | ![3D printed motor box, belt tensioner (version 2, with 22 mm lock slot)](images/13_3d_printed_motor_box__belt_ten.jpg) |
 | 14 | Cordless drill (1.5 kg) | Test load on the carriage | ![Cordless drill (1.5 kg)](images/14_cordless_drill__1_5_kg_.jpg) |

@@ -16,7 +16,7 @@ Names only. Photos are the real parts from this build.
 | 2 | USB speaker bar (any USB speaker works) | Robot voice | ![USB speaker bar (any USB speaker works)](images/speaker.jpg) |
 | 3 | USB conference microphone (any USB microphone works) | Hearing the children | ![USB conference microphone (any USB microphone works)](images/mic.jpg) |
 | 4 | NVIDIA Jetson Orin Nano | Runs everything on the robot (see Phase 2) | ![NVIDIA Jetson Orin Nano](images/jetson_real.jpg) |
-| 5 | Voice backends behind one interface: OpenAI Realtime, Azure, Gemini Live, a local test path | Live conversation (software, cloud services) | photo to add |
+| 5 | Voice backends behind one interface: OpenAI Realtime, Azure, Gemini Live, a local test path | Live conversation (software, cloud services) | — |
 
 ## Story menu on the robot's screen
 

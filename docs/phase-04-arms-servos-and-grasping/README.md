@@ -12,11 +12,11 @@ Names only. Photos are the real parts from this build.
 
 | # | Component | Used for | Photo |
 |---|---|---|---|
-| 1 | Two SO-ARM101 arms | Manipulation (from the kit in Phase 2) | photo to add |
+| 1 | Two SO-ARM101 arms | Manipulation (from the kit in Phase 2) | — |
 | 2 | Feetech STS3215 servos, 12 V, 30 kg.cm (six per arm including the gripper) | Arm joints and gripper | ![Feetech STS3215 servos, 12 V, 30 kg.cm (six per arm including the gripper)](images/servo.jpg) |
-| 3 | Spare STS3215 servos (two) | Replacing the burnt and seized servos | photo to add |
+| 3 | Spare STS3215 servos (two) | Replacing the burnt and seized servos | — |
 | 4 | 35 mm ArUco marker, printed, on the back of the wrist camera board | Camera-to-arm calibration | ![35 mm ArUco marker, printed, on the back of the wrist camera board](images/04_35_mm_aruco_marker__printed__o.jpg) |
-| 5 | Head camera (Intel RealSense D435) | Checks the arm model and watches servo wiggle tests | photo to add |
+| 5 | Head camera (Intel RealSense D435) | Checks the arm model and watches servo wiggle tests | — |
 | 6 | Touch screen pose panel (software) | Moves each joint and drives home pose plus ten free poses | ![Touch screen pose panel (software)](images/06_touch_screen_pose_panel__softw.jpg) |
 
 > Credit: the arms, the wheeled base parts and the camera mount parts come from the XLeRobot project and its kit (https://xlerobot.readthedocs.io/en/latest/index.html), which is open source under the Apache 2.0 license. The Intel RealSense D435 depth camera was not part of the kit.

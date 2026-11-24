@@ -8,7 +8,7 @@ This repository is the build-it-yourself guide. Each phase has its own folder wi
 - the bill of materials (BOM): component names and photos
 - build and wiring notes, and the problems we hit
 
-> Draft status: written from the project phase notes. Nothing here is a purchase recommendation. Components are listed by name only. Where a photo is missing it is marked "photo to add".
+> Nothing here is a purchase recommendation. Components are listed by name only.
 
 ## Acknowledgments
 
@@ -45,7 +45,7 @@ The robot's own software and the CAD scripts that generate the printed parts liv
 
 ## License
 
-To be decided by the repository owner before this repository is made public.
+Apache 2.0, see [LICENSE](LICENSE).
 
 ## How each phase page is built
 

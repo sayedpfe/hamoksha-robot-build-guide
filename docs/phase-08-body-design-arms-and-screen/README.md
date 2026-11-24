@@ -21,7 +21,7 @@ Names only. Photos are the real parts from this build.
 | 7 | USB speaker bar (any USB speaker works), 248 mm long | Voice, along the bottom front (sets the body width of about 255 mm) | ![USB speaker bar (any USB speaker works), 248 mm long](images/speaker.jpg) |
 | 8 | USB conference microphone (any USB microphone works) | Top front | ![USB conference microphone (any USB microphone works)](images/mic.jpg) |
 | 9 | NVIDIA Jetson Orin Nano | On the carriage plate behind the screen | ![NVIDIA Jetson Orin Nano](images/jetson_real.jpg) |
-| 10 | Drag chain (three cables go down to the base) | Cable guide | photo to add |
+| 10 | Drag chain (three cables go down to the base) | Cable guide | — |
 
 > Credit: the arms, the wheeled base parts and the camera mount parts come from the XLeRobot project and its kit (https://xlerobot.readthedocs.io/en/latest/index.html), which is open source under the Apache 2.0 license. The Intel RealSense D435 depth camera was not part of the kit.
 

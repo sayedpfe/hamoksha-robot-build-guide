@@ -21,10 +21,10 @@ Names only. Photos are the real parts from this build.
 | 7 | Servo horn (12-hole disc) | Joins the servo to the arm | ![servo horn](images/servo_horn.jpg) |
 | 8 | M5 x 12 screws | Magnet and servo horn mounting | ![screws](images/screws_m5.jpg) |
 | 9 | 3D printed parts: clamp v2 (cradle and cap), swing arm | Hold the actuator and carry the magnet | ![swing arm](images/swing_arm.jpg) |
-| 10 | Galvanised steel washers M12 x 37 x 3 (three) | Steel target for the magnet. Not stainless. | photo to add |
-| 11 | 4-channel relay module | Switching | photo to add |
-| 12 | Two Kamoer peristaltic pumps | Detergent dosing | photo to add |
-| 13 | Shelly smart plug | Mains switching | photo to add |
+| 10 | Galvanised steel washers M12 x 37 x 3 (three) | Steel target for the magnet. Not stainless. | — |
+| 11 | 4-channel relay module | Switching | — |
+| 12 | Two Kamoer peristaltic pumps | Detergent dosing | — |
+| 13 | Shelly smart plug | Mains switching | — |
 | 14 | Starter kit with Mega board | Bench electronics | ![starter kit](images/starter_kit.jpg) |
 
 Printer: Anycubic Kobra S1, sliced in OrcaSlicer.

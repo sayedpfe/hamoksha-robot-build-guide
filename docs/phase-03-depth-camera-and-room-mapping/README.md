@@ -13,7 +13,7 @@ Names only. Photos are the real parts from this build.
 | # | Component | Used for | Photo |
 |---|---|---|---|
 | 1 | Intel RealSense D435 depth camera | Depth and distance, on the head | ![Intel RealSense D435 depth camera](images/01_intel_realsense_d435_depth_cam.jpg) |
-| 2 | Two-servo head (pan and tilt) | Turns the camera almost 360 degrees and tilts it | photo to add |
+| 2 | Two-servo head (pan and tilt) | Turns the camera almost 360 degrees and tilts it | — |
 | 3 | Slamtec RPLIDAR C1 2D lidar | Obstacles now, mapping while driving later | ![Slamtec RPLIDAR C1 2D lidar](images/03_slamtec_rplidar_c1_2d_lidar.jpg) |
 | 4 | NVIDIA Jetson Orin Nano | Runs the scans (see Phase 2) | ![NVIDIA Jetson Orin Nano](images/jetson_real.jpg) |
 

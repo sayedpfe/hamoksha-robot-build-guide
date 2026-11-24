@@ -13,12 +13,12 @@ Names only. Photos are the real parts from this build.
 | # | Component | Used for | Photo |
 |---|---|---|---|
 | 1 | Mecanum wheels 100 x 50 mm, left and right (two now, a set of four ordered) | Drive wheels | ![Mecanum wheels 100 x 50 mm, left and right (two now, a set of four ordered)](images/01_mecanum_wheels_100_x_50_mm__le.jpg) |
-| 2 | Wheel servos (the kit's STS3215) with horn 20 mm across, about 2.4 mm thick, four holes on a 14 mm circle | Turn the wheel | photo to add |
+| 2 | Wheel servos (the kit's STS3215) with horn 20 mm across, about 2.4 mm thick, four holes on a 14 mm circle | Turn the wheel | — |
 | 3 | Printed adapters (copy of the hub flange: 38.75 mm across, 6.75 mm thick, four 3.3 mm holes on a 30.1 mm circle, 7.76 mm centre tube) | Join the wheel to the servo | ![Printed adapters (copy of the hub flange: 38.75 mm across, 6.75 mm thick, four 3.3 mm holes on a 30.1 mm circle, 7.76 mm centre tube)](images/03_printed_adapters__copy_of_the_.jpg) |
 | 4 | Printed brackets under the frame, PETG | Carry the wheel's weight through bearings | ![Printed brackets under the frame, PETG](images/04_printed_brackets_under_the_fra.jpg) |
-| 5 | Two 6805 ball bearings (25 x 37 x 7 mm) per wheel | The wheel's weight goes through them, the servo only turns the wheel | photo to add |
-| 6 | M3 x 40 screws with lock nuts | Clamp the wheel sandwich and the adapter | photo to add |
-| 7 | Two swivel casters, 70 mm height | Rear support until the set of four arrives | photo to add |
+| 5 | Two 6805 ball bearings (25 x 37 x 7 mm) per wheel | The wheel's weight goes through them, the servo only turns the wheel | — |
+| 6 | M3 x 40 screws with lock nuts | Clamp the wheel sandwich and the adapter | — |
+| 7 | Two swivel casters, 70 mm height | Rear support until the set of four arrives | — |
 | 8 | Caliper | Measure every part before drawing it | ![Caliper](images/08_caliper.jpg) |
 
 ## Simulated wheel drive on the base
